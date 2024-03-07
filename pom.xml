@@ -9,7 +9,7 @@
         <!--This should be safe, since breaking changes should only happen in major releases
         3.0.8 to 3.0.9 however did introduce several breaking changes
         If this code fails, right after being cloned it was last tested with 3.2.2 -->
-        <version>[3.2.2,3.2.9]</version>
+        <version></version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <!--Often a reversed company domain name, here you could use something like below -->
