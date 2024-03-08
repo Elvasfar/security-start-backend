@@ -61,4 +61,5 @@ jobs:
           app-name: 'recipe-project-deployment'
           slot-name: 'Production'
           package: '*.jar'
-          
+
+
